@@ -29,4 +29,4 @@ I focus on building backend applications using **Java**, **Spring Boot**, and **
 - Email: kubantovmuhamedjan@gmail.com
 - Email: mukhamedzhan.kubantov@narxoz.kz
 
-- LinkedIn: muhamedzhan kubantov
+- LinkedIn: www.linkedin.com/in/muhamedzhan-kubantov-737786264
