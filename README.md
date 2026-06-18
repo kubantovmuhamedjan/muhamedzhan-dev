@@ -1,32 +1,49 @@
 # Hi, I'm Muhamedzhan 👋
 
-I'm an IT student and aspiring backend developer.
-
-I focus on building backend applications using **Java**, **Spring Boot**, and **PostgreSQL**.
+I'm an IT student with a growing passion for **Machine Learning** and **Data Science**. I also have experience in backend development using **Java** and **Spring Boot**.
 
 ## 🚀 About Me
-- Learning backend development step by step
-- Building CRUD and REST API projects
-- Improving my Java and database skills
-- Currently preparing for internship opportunities
+
+* Transitioning from backend development to Machine Learning
+* Learning Python, NumPy, Pandas, Matplotlib, and ML fundamentals
+* Exploring data analysis, model building, and AI applications
+* Continuously improving my programming and problem-solving skills
+* Preparing for internships and real-world AI projects
 
 ## 🛠 Tech Stack
-- Java
-- Spring Boot
-- Spring Data JPA
-- PostgreSQL
-- Hibernate
-- REST API
-- Git / GitHub
-- Postman
+
+### Machine Learning & Data
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn (learning)
+* Jupyter Notebook
+
+### Backend Development
+
+* Java
+* Spring Boot
+* Spring Data JPA
+* PostgreSQL
+* Hibernate
+* REST API
+
+### Tools
+
+* Git / GitHub
+* Postman
 
 ## 📌 Current Projects
-- Task Manager API
-- Car Rental System
-- Backend portfolio projects with Spring Boot
+
+* Data analysis and visualization projects with Python
+* Machine Learning practice projects
+* Backend portfolio projects with Spring Boot
+* Integrating AI concepts into practical applications
 
 ## 📫 Contact
-- Email: kubantovmuhamedjan@gmail.com
-- Email: mukhamedzhan.kubantov@narxoz.kz
 
-- LinkedIn: www.linkedin.com/in/muhamedzhan-kubantov-737786264
+* Email: [kubantovmuhamedjan@gmail.com](mailto:kubantovmuhamedjan@gmail.com)
+* Email: [mukhamedzhan.kubantov@narxoz.kz](mailto:mukhamedzhan.kubantov@narxoz.kz)
+* LinkedIn: [www.linkedin.com/in/muhamedzhan-kubantov-737786264](http://www.linkedin.com/in/muhamedzhan-kubantov-737786264)
